@@ -1,5 +1,8 @@
 # Product-Sales-Java-Gui-Application
 
+gui img.JPG
+
+
 
 application to manage information of products that are sold 
 per item (item- based products) as well as products that are sold by weight 
