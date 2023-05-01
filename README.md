@@ -1,6 +1,6 @@
 # Product-Sales-Java-Gui-Application
 
-(https://github.com/MphoMakhari/Product-Sales-Java-Gui-Application)
+(Product-Sales-Java-Gui-Application/gui img.JPG)
 
 
 
